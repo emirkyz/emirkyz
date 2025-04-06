@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Emir and I am a research asistant at Karadeniz Technical University.
+My name is Emir Karayağız and I am a research asistant at Karadeniz Technical University.
 I publish side-projects in this profile.
 <!--
 **emirkyz/emirkyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
